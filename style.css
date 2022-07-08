@@ -1,0 +1,12 @@
+.abbtn{
+    padding: 10px 25px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    border-radius: 1px;
+    box-shadow: 0 1px #999;
+}
+.abbtn:hover{
+    color:black
+}
